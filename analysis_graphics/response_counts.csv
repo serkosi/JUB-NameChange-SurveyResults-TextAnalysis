@@ -1,0 +1,77 @@
+question,answer,count,percentage
+Q1 Current status,Undergraduate student,275,55.33
+Q1 Current status,Alumni,75,15.09
+Q1 Current status,PhD student,50,10.06
+Q1 Current status,Academic employee,47,9.46
+Q1 Current status,Master student,28,5.63
+Q1 Current status,Other Response Options,15,3.02
+Q1 Current status,Non-academic employee,7,1.41
+Q2 Field of study/research/work,School of Computer Science & Engineering - formerly Focus Area Mobility,161,32.39
+Q2 Field of study/research/work,"School of Business, Social & Decision Sciences - formerly Focus Area Diversity",161,32.39
+Q2 Field of study/research/work,School of Science - formerly Focus Area Health,132,26.56
+Q2 Field of study/research/work,Non-academic Employee,16,3.22
+Q2 Field of study/research/work,BIGSSS,4,0.8
+Q2 Field of study/research/work,Alumni,2,0.4
+Q2 Field of study/research/work,Data engineering,1,0.2
+Q2 Field of study/research/work,SMC,1,0.2
+Q2 Field of study/research/work,this info is not needed for the survey,1,0.2
+Q2 Field of study/research/work,Data science for society and business,1,0.2
+Q2 Field of study/research/work,Fso,1,0.2
+Q2 Field of study/research/work,Bremen International Graduate School of Social Sciences,1,0.2
+Q2 Field of study/research/work,Foundation Year,1,0.2
+Q2 Field of study/research/work,Data Engineering,1,0.2
+Q2 Field of study/research/work,Microbiology,1,0.2
+Q2 Field of study/research/work,Political science,1,0.2
+Q2 Field of study/research/work,Education,1,0.2
+Q2 Field of study/research/work,History,1,0.2
+Q2 Field of study/research/work,SHSS & BIGSSS,1,0.2
+Q2 Field of study/research/work,Earth and Space,1,0.2
+Q2 Field of study/research/work,Ocean lab,1,0.2
+Q2 Field of study/research/work,Language and Community Center,1,0.2
+Q2 Field of study/research/work,Entrepreneur,1,0.2
+Q2 Field of study/research/work,Social policy,1,0.2
+Q2 Field of study/research/work,Consultant,1,0.2
+Q2 Field of study/research/work,Logistics,1,0.2
+Q2 Field of study/research/work,CIP,1,0.2
+Q3 Heard about renaming plans,Yes,485,97.59
+Q3 Heard about renaming plans,No,11,2.21
+Q3 Heard about renaming plans,Don't know,1,0.2
+Q4 Attended Town Hall,No,349,70.22
+Q4 Attended Town Hall,Yes,148,29.78
+Q5 Keep current name,Yes,376,75.65
+Q5 Keep current name,Don't know,70,14.08
+Q5 Keep current name,No,51,10.26
+Q6 Association with current name,0,3,0.6
+Q6 Association with current name,1,3,0.6
+Q6 Association with current name,2,4,0.8
+Q6 Association with current name,3,8,1.61
+Q6 Association with current name,4,7,1.41
+Q6 Association with current name,5,21,4.23
+Q6 Association with current name,6,21,4.23
+Q6 Association with current name,7,42,8.45
+Q6 Association with current name,8,82,16.5
+Q6 Association with current name,9,79,15.9
+Q6 Association with current name,10,227,45.67
+Q9 Feeling about Constructor University,0,396,79.68
+Q9 Feeling about Constructor University,1,46,9.26
+Q9 Feeling about Constructor University,2,27,5.43
+Q9 Feeling about Constructor University,3,15,3.02
+Q9 Feeling about Constructor University,4,2,0.4
+Q9 Feeling about Constructor University,5,6,1.21
+Q9 Feeling about Constructor University,6,3,0.6
+Q9 Feeling about Constructor University,8,1,0.2
+Q9 Feeling about Constructor University,10,1,0.2
+Q10 Study/work at Constructor University,No,416,83.7
+Q10 Study/work at Constructor University,Don't know,65,13.08
+Q10 Study/work at Constructor University,Yes,16,3.22
+Q11 Alternative name,International University Bremen,313,62.98
+Q11 Alternative name,International University of Science and Technology,85,17.1
+Q11 Alternative name,Technical University of Bremen,55,11.07
+Q11 Alternative name,Other Response Options,24,4.83
+Q11 Alternative name,A Unique Name,7,1.41
+Q11 Alternative name,Bremen Institute of Technology,6,1.21
+Q11 Alternative name,Bremen Institute of Science and Technology,2,0.4
+Q11 Alternative name,Constructor University,2,0.4
+Q11 Alternative name,Bremen Institute of Technology and Science,1,0.2
+Q11 Alternative name,Institute of Science and Technology (IST) Bremen,1,0.2
+Q11 Alternative name,BIT - Bremen Institute of Techology,1,0.2
